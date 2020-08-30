@@ -1,3 +1,6 @@
+sudo apt install docker
+sudo chmod 666 /var/run/docker.sock
+
 # Neural Persistence: A Complexity Measure for Deep Neural Networks Using Algebraic Topology 
 
 This repository contains the code for our paper [*Neural Persistence:
