@@ -1,4 +1,7 @@
+## Docker quick hands-on
+
 sudo apt install docker
+
 sudo chmod 666 /var/run/docker.sock
 
 # Neural Persistence: A Complexity Measure for Deep Neural Networks Using Algebraic Topology 
